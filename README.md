@@ -87,8 +87,7 @@ src
 
 ## Allure Report
 
-![Allure Report](images/allure_results.png)
-
+![Allure Report](./images/allure_results.png)
 ---
 
 # ⚙ Framework Features
