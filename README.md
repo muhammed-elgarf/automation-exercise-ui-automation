@@ -83,7 +83,7 @@ src
 
 ## Project Structure
 
-![Project Structure](images/ProjectStructure.png)
+![Project Structure](images/project_structure.png)
 
 ## Allure Report
 
