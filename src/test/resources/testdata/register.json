@@ -1,0 +1,25 @@
+{
+  "name": "Mohamed",
+  "password": "Test@123",
+
+  "day": "15",
+  "month": "May",
+  "year": "1995",
+
+  "firstName": "Mohamed",
+  "lastName": "Raafat El Garf",
+
+  "company": "QA Company",
+
+  "address1": "Zahraa Nasr Street",
+  "address2": "Apartment 10",
+
+  "country": "Canada",
+
+  "state": "Cairo",
+  "city": "Zahraa Nasr",
+
+  "zipcode": "13511",
+
+  "mobileNumber": "01012345678"
+}

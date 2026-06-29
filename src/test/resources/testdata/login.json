@@ -1,0 +1,6 @@
+{
+  "validEmail": "muhamedelgarf222@gmail.com",
+  "validPassword": "12345678910",
+  "invalidEmail": "invalid@email.com",
+  "invalidPassword": "wrongpassword"
+}
