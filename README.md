@@ -82,8 +82,7 @@ src
 # 📸 Project Screenshots
 
 ## Project Structure
-![Project Structure](https://raw.githubusercontent.com/muhammed-elgarf/automation-exercise-ui-automation/main/images/project_structure.png)
-
+![Project Structure](images/AutomationExercise_ProjectStructure.png)
 ## Allure Report
 ![Allure Report](./images/allure_results.png)
 ---
